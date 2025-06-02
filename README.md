@@ -1,8 +1,6 @@
 # Comprehensive Rust
 
-## Hello, World
-
-### What is Rust?
+## What is Rust?
 Rust is a statically compiled language programming which had its 1.0 release in 2015. It is used for a wide range of devices:
 - Firmware and boot loaders.
 - Smart displays.
