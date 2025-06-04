@@ -47,7 +47,7 @@ The types have widths as follows:
 - `char` is 32 bits wide.
 - `bool` is 8 bits wide.
 
-When nothing constrains the type of an integer literal, Rust defaults to i32. This sometimes appears as {integer} in error messages. Similarly, floating-point literals default to f64.
+When nothing constrains the type of an integer literal, Rust defaults to `i32`. This sometimes appears as `{integer}` in error messages. Similarly, floating-point literals default to `f64`.
 
 ## Exercise: Fibonacci
 
