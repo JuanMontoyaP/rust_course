@@ -16,8 +16,9 @@ Rust is multi-paradigm. For example, it has powerful [object-oriented](https://d
 
 ## Table of Content
 1. [Types and Values](./fibonacci/README.md)
-2. [Control Flow Basics](./collatz_sequence/README.md)
-2. [Tuples and Arrays](./nested_arrays/README.md)
+1. [Control Flow Basics](./collatz_sequence/README.md)
+1. [Tuples and Arrays](./nested_arrays/README.md)
+1. [References](./geometry/README.md)
 
 
 # Bibliography
