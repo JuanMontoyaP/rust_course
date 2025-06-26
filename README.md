@@ -21,6 +21,7 @@ Rust is multi-paradigm. For example, it has powerful [object-oriented](https://d
 1. [References](./geometry/README.md)
 1. [User Defined Structs](./elevator_events/README.md)
 1. [Pattern Matching](./expression_evaluation/README.md)
+1. [Methods and Traits](./generic_logger/README.md)
 
 
 # Bibliography
